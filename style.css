@@ -141,7 +141,7 @@ opacity: 1;
   border-radius: 50%;
   margin-top: 70px;
  
- background: url(/img/IMG1.JPG);
+ background: url(IMG1.JPG);
  background-repeat: no-repeat;
  background-size: cover;
  transform: translateX(20px);
